@@ -1,19 +1,50 @@
 [
   {
-    "category":"mättel und Rock",
-    "stations":[
-
-    ]
+    "category": {
+      "cat_name": "You",
+      "stations": [
+        {
+          "name": "Config Missing",
+          "streamurl": "http://hollar.de/music.mpu"
+        },
+        {
+          "name": "Config Missing",
+          "streamurl": "http://hollar.de/music.pls"
+        }
+      ]
+    }
   },
-   {
-    "category":"Kinners",
-    "stations":[
-
-    ]
-  }, {
-    "category":"Schaukelmusik",
-    "stations":[
-
-    ]
+  {
+    "category": {
+      "cat_name": "Did not",
+      "stations": [
+        {
+          "name": "Config Missing",
+          "streamurl": "http://hollar.de/music.mpu"
+        }
+      ]
+    }
+  },
+  {
+    "category": {
+      "cat_name": "configure the ",
+      "stations": [
+        {
+          "name": "Config Missing",
+          "streamurl": "http://hollar.de/music.mpu"
+        }
+      ]
+    }
+  },
+  {
+    "category": {
+      "cat_name": "easywebradio plugin ",
+      "stations": [
+        {
+          "name": "Config Missing",
+          "streamurl": "http://hollar.de/music.mpu"
+        }
+      ]
+    }
   }
 ]
